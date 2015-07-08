@@ -1,2 +1,1 @@
-# gitinfo
-Wyncode Git readme file
+puts "Let me edit your README file"
