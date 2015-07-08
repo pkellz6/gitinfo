@@ -1,2 +1,2 @@
 # gitinfo
-P
+Wyncode Git readme file
